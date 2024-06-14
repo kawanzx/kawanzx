@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [Desenvolvimento de Sistemas]| Etec de Taboão da Serra]
+🎓 Eu estudo [Desenvolvimento de Sistemas] | Etec de Taboão da Serra]
 
 ### Estou estudando... 🧩
 
