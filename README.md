@@ -4,7 +4,7 @@
 
 💻 Sou um desenvolvedor em estudo.
 
-🎓 Estou estudando [Desenvolvimento de Sistemas] | Etec de Taboão da Serra]
+🎓 Desenvolvimento de Sistemas | Etec de Taboão da Serra]
 
 ### Estudando... 🧩
 
